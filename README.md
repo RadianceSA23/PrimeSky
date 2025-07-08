@@ -6,10 +6,6 @@
 
 ---
 
-##ScreenShots 
-
-<img width="298" alt="Screenshot 2025-07-08 at 10 35 55 PM" src="https://github.com/user-attachments/assets/f8e279d2-7224-41fc-9a34-31e3ba5ce5b8" />
-
 ## 🎯 Features
 
 
@@ -20,6 +16,12 @@
 - 🔁 Fully supports Redux state management.
 - 🧪 Unit tests for core logic and components.
 - 📁 Clean architecture with separation of concerns.
+
+---
+
+## ScreenShots 
+
+<img width="298" alt="Screenshot 2025-07-08 at 10 35 55 PM" src="https://github.com/user-attachments/assets/f8e279d2-7224-41fc-9a34-31e3ba5ce5b8" />
 
 ---
 
