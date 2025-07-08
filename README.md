@@ -143,12 +143,6 @@ src/
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👨‍💻 Author
 
 [Subburaj] – [subbupost628008@gmail.com]  
