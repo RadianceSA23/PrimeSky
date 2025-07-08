@@ -4,10 +4,6 @@
 
 **PrimeSky** is a simple yet scalable Weather App built with **React Native**. It allows users to search for weather information by city name, fetching real-time data from the **OpenWeatherMap API**. The app is compatible with both **iOS** and **Android** platforms.
 
-![React Native](https://img.shields.io/badge/Framework-React%20Native-blue?logo=react)
-![Redux Toolkit](https://img.shields.io/badge/State-Redux%20Toolkit-red?logo=redux)
-![TypeScript](https://img.shields.io/badge/Language-TypeScript-lightgrey?logo=typescript)
-
 ---
 
 ## 🎯 Features
