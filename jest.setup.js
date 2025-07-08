@@ -1,9 +1,13 @@
+
 //import 'react-native-gesture-handler/jestSetup';
-import fetchMock from 'jest-fetch-mock';
 
-fetchMock.enableMocks(); // ✅ Correctly enables the mock
+// Optional: silence warnings
+//jest.mock('react-native/Libraries/Animated/NativeAnimatedHelper');
 
-// Optional: Reset mocks before each test
-beforeEach(() => {
-  fetchMock.resetMocks();
-});
+// Optional: mock navigation if using React Navigation
+// jest.mock('@react-navigation/native', () => ({
+//   ...jest.requireActual('@react-navigation/native'),
+//   useNavigation: () => ({
+//     navigate: jest.fn(),
+//   }),
+// }));
