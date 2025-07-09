@@ -145,5 +145,6 @@ src/
 
 ## 👨‍💻 Author
 
-[Subburaj] – [subbupost628008@gmail.com]  
+[Subburaj Murugan Reddiyar](subbulearningupgrade@gmail.com)
+
 GitHub: [RadianceSA23](https://github.com/RadianceSA23)
